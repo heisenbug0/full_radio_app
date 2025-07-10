@@ -1,0 +1,6 @@
+package com.inmotion.bellefu
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

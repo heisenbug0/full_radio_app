@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "820048701138",
+    "project_id": "bellefu-radio",
+    "storage_bucket": "bellefu-radio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820048701138:android:4d2a71e91275dd09246f0b",
+        "android_client_info": {
+          "package_name": "com.inmotion.bellefu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820048701138-ho5tsfeosbnc0kfo9huh8a1k70c1t4do.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inmotion.bellefu",
+            "certificate_hash": "3c3eabc93e1819044d9ec861760484ff2288aabb"
+          }
+        },
+        {
+          "client_id": "820048701138-ro8mua80brlvi3re1cq61bhfen8ekq4d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inmotion.bellefu",
+            "certificate_hash": "65c525658a5d180603087e3c9cc012825694da1f"
+          }
+        },
+        {
+          "client_id": "820048701138-bo6nu40cphhnp9f8v39jt8cmv57p9q67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDelgU_rizqMgRIxqAhYtnDYJ2N0oMAd8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820048701138-bo6nu40cphhnp9f8v39jt8cmv57p9q67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
